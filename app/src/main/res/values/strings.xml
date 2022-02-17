@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TinnyToolPro</string>
+    <string name="url">https://m.jd.com</string>
+    <string name="urlAPI">https://xxxxxx/upload_cookie</string>
+    <string name="remark">备注</string>
+    <string name="button_upload">上传</string>
+    <string name="button_copy">复制</string>
+    <string name="button_clear">清除</string>
+</resources>
